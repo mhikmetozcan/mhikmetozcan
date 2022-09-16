@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mhikmetozcan
 - 👀 I’m interested in coding & flying 🛩
-- 🌱 I’m currently learning Java programming Language in order to be SDET
-- 💞️ I’m looking to collaborate on the projects to help grow each other
+- 🌱 I’m an Software Test Automation Engineer
+- 💞️ I’m looking forward to collaborate on the projects to help grow each other
 
 <!---
 mhikmetozcan/mhikmetozcan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
